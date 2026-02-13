@@ -22,8 +22,9 @@ Gosto de construir produtos digitais acessíveis, escaláveis e centrados em pes
 - **Frontend:** HTML, CSS, JavaScript (em evolução constante)  
 - **Versionamento:** Git & GitHub
 
+---
   
-- **Inteligência Artificial:**  
+## **Inteligência Artificial:**  
   - Uso de LLMs para produtividade, design e produtos digitais  
   - Exploração de IA aplicada à experiência do usuário e automação
 
