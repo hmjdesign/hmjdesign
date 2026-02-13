@@ -18,8 +18,8 @@ Gosto de construir produtos digitais acessíveis, escaláveis e centrados em pes
 
 ## 🛠️ Tecnologias & Ferramentas
 
-- Design: Figma, Design Systems, UX Research, UI Design  
-- Frontend: HTML, CSS, JavaScript (em evolução constante)  
+- Design: Figma, Design Systems, UX Research, UI Design
+- Frontend: HTML, CSS, JavaScript (em evolução constante)
 - Versionamento: Git & GitHub
 
 - **Inteligência Artificial:**  
